@@ -8,7 +8,7 @@ meta:
     - plg
     - signup-enrichment
 about:
-  title: Personal Email to Company Resolver
+  title: Personal Email To Company Resolver
   description: "Find the likely employer behind a Gmail or other free mail signup, with a confidence."
   icon: https://avatars.githubusercontent.com/u/289610954?v=4
 source:
